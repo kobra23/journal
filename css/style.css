@@ -1,0 +1,25 @@
+.title-2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 27px;
+    font-family: 'Courier New', Courier, monospace;
+    list-style: ;
+}
+.title{
+    font-size: 3rem; 
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace  ;
+}
+.section-1 .span1{
+    color: blue;
+}
+.section-1 .span2{
+    color:wheat;
+}
+.section-1 .span3{
+    color: red;
+}
+.warwerebi{
+    font-size: 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
